@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+
+}
+.contenedor{
+    background: white;
+	width: 30%;
+	height: 300px;
+	margin: auto;
+}
+h1{
+    background-color: rgb(176, 122, 133);
+    text-align: center;
+}
+button{
+    border: none;
+    margin: auto;
+    padding: 50px;
+    margin-top: 20px;
+}
+.botones{
+    margin: auto;
+    padding: 20px;
+    margin-left: 15px;
+}
+.contenedor .result{
+    text-align: center;
+}
